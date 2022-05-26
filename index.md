@@ -1,11 +1,11 @@
 ---
-title: "Hi, I'm Caleb Curry"
+title: "Hi, I'm Levi Curry"
 layout: "single"
 toc: true
 toc_sticky: true
 share: false
 author_profile: true
-author: Caleb Curry
+author: Levi Curry
 ---
 
 <link rel="stylesheet" href="assets/css/custom.css">
