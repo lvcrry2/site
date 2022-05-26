@@ -14,9 +14,11 @@ author: Levi Curry
 
 ### Tutorials and Courses
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AOGPtRYaYPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Informational / Talking Head
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1kObqjeRs2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Vlogs 
 
