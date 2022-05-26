@@ -10,16 +10,17 @@ author: Levi Curry
 
 <link rel="stylesheet" href="assets/css/custom.css">
 
-## Roles I'm searching for...
+## My Work...
 
-### Web3 Engineer
-I'm most interested in a role that allows me to build the future of **blockchain** and **web3**. I believe the decentralization of software is core to our future and essential for thriving in the tech industry. Whether this is smart contract development or general software engineering for a cryptocurrency/blockchain company, count me in.
+### Tutorials and Courses
 
-### Web Developer
-The secondary role I am looking for is a web developer. This is what I have the most experience in and believe I have a good understanding of the full stack. From databases and backends to presenting things on a webpage, I can do it.
 
-### Devrel (Developer Relations)
-Need an engineer who can also build a community? I'm well versed in simplifying technical content and helping people succeed in an ecosystem. I'm familiar with markdown documentation, video tutorials, Discord management, and software development.
+### Informational / Talking Head
+
+
+### Vlogs 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7AtkFk1PoO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## I'm Currently Working on...
 
