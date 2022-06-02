@@ -14,9 +14,7 @@ author: Levi Curry
 
 ### Tutorials and Courses
 
-40 video course on python backend 
-(https://www.codebreakthrough.com/backend-python)
-[Python Backend](https://www.codebreakthrough.com/backend-python)
+40 video course on [Python Backend Web Development](https://www.codebreakthrough.com/backend-python)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AOGPtRYaYPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
