@@ -1,15 +1,12 @@
 Levi Curry:
   name        : "Levi Curry"
-  #bio         : ""
+  bio         : "Skills"
   avatar      : "/assets/images/myface.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lvcrry2@gmail.com"
-    - label: "GitHub"
-    Skills:
-      Final Cut Pro
-      Photoshop
+    # label: "GitHub"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://github.com/calebcurry"
     #- label: "Main YouTube"
