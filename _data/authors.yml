@@ -7,6 +7,9 @@ Levi Curry:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lvcrry2@gmail.com"
     - label: "GitHub"
+    Skills:
+      Final Cut Pro
+      Photoshop
     #  icon: "fas fa-fw fa-link"
     #  url: "https://github.com/calebcurry"
     #- label: "Main YouTube"
