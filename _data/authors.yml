@@ -6,7 +6,7 @@ Levi Curry:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lvcrry2@gmail.com"
-    #- label: "GitHub"
+    - label: "GitHub"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://github.com/calebcurry"
     #- label: "Main YouTube"
