@@ -1,7 +1,7 @@
 Levi Curry:
   name        : "Levi Curry"
   #bio         : ""
-  avatar      : "/assets/images/myface.jpg"
+  avatar      : "/assets/images/myface.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
